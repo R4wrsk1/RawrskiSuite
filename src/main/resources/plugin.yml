@@ -1,0 +1,9 @@
+author: Rawrski
+database: false
+description: Adds helpful and fun commands to your server!
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.rawrski.plugins.rawrskisuite.RawrskiSuite
+name: RawrskiSuite
+startup: postworld
+url: http://dethemium.com/
+version: '1.0'
