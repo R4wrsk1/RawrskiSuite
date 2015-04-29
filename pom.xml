@@ -7,8 +7,8 @@
     <url>http://dethemium.com/</url>
     <repositories>
         <repository>
-            <id>bukkit-repo</id>
-            <url>http://repo.bukkit.org/content/groups/public</url>
+            <id>spigot-bukkit-repo</id>
+            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
         </repository>
     </repositories>
     <build>
@@ -28,7 +28,7 @@
         <dependency>
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
-            <version>1.2.5-R1.0</version>
+            <version>1.8.3-R0.1-SNAPSHOT</version>
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
